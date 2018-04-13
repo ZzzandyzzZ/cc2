@@ -1,5 +1,5 @@
 #include <iostream>
-
+//renzo eres un cabro XD
 using namespace std;
 int tam(char *cad)
 {
